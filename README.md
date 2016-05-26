@@ -6,7 +6,7 @@ The aim of the *parse me* repository is to provide a set of parsing challenges f
 
 A list of available challenges follows.
 
-* [ ] [hello](hello/): *"Hello world"* example.
+* [x] [hello](hello/): *"Hello world"* example.
 * [x] [rand](rand/): Borland C/C++ pseudo-random number generator.
 
 ## Public domain
